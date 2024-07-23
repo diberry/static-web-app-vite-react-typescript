@@ -1,0 +1,1 @@
+# static-web-app-vite-react-typescript
